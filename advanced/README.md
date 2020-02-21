@@ -16,10 +16,7 @@ Alternative answer 2: Because we can!
 
 * Option 3: https://dribbble.com/shots/9762549-Neumorphic-Thermostat
 
-
-![Option 1](/advanced/option1.png) ![Option 2](/advanced/option2.png) ![Option 3](/advanced/option3.mp4)
-
-<table style={border:"none"}><tr><td><img src="option1.png" alt="First Option"/></td><td><img src="option2.png" alt="Second Option"/></td><td><img src="option3" alt="Third Option"/></td></tr></table>
+<table style={border:"none"}><tr><td><img src="option1.png" alt="First Option"/></td><td><img src="option2.png" alt="Second Option"/></td><td><img src="option3.gif" alt="Third Option"/></td></tr></table>
 
 
 ## Reference
