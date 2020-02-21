@@ -19,6 +19,8 @@ Alternative answer 2: Because we can!
 
 ![Option 1](/advanced/option1.png) ![Option 2](/advanced/option2.png) ![Option 3](/advanced/option3.mp4)
 
+<table style={border:"none"}><tr><td><img src="option1.png" alt="First Option"/></td><td><img src="option2.png" alt="Second Option"/></td><td><img src="option3" alt="Third Option"/></td></tr></table>
+
 
 ## Reference
 https://medium.com/flutter-community/neumorphic-designs-in-flutter-eab9a4de2059
