@@ -5,8 +5,7 @@ BMI stands for Body Mass Index. It is a calculation based on sex, height and wei
 
 Here is what we'll do (colors will be defined by you):
 
-![First Screen](/novice/one.png)
-![Second Screen](/novice/two.png)
+![First Screen](/novice/one.png) ![Second Screen](/novice/two.png)
 
 All the assets you need are provided here (the images for the male and female icons) but feel free to use your own.
 The calculation is also provided. Feel free to put it into your code as best as you seem fit.

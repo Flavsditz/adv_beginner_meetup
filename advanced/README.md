@@ -17,9 +17,7 @@ Alternative answer 2: Because we can!
 * Option 3: https://dribbble.com/shots/9762549-Neumorphic-Thermostat
 
 
-![Option 1](/advanced/option1.png)
-![Option 2](/advanced/option2.png)
-![Option 3](/advanced/option3.mp4)
+![Option 1](/advanced/option1.png) ![Option 2](/advanced/option2.png) ![Option 3](/advanced/option3.mp4)
 
 
 ## Reference
