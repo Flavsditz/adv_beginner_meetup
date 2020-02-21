@@ -14,10 +14,14 @@ The calculation is also provided. Feel free to put it into your code as best as 
 * Slider: https://api.flutter.dev/flutter/material/Slider-class.html
 * Card: https://api.flutter.dev/flutter/material/Card-class.html
 * RaisedButton: https://api.flutter.dev/flutter/material/RaisedButton-class.html
-* Container: https://api.flutter.dev/flutter/widgets/Container-class.html (cheatsheet: https://medium.com/jlouage/container-de5b0d3ad184)
-* Stack: https://api.flutter.dev/flutter/widgets/Stack-class.html (cheatsheet: https://medium.com/flutteropen/flutter-widgets-15-stack-9637858f7c62)
-* Column: https://api.flutter.dev/flutter/widgets/Column-class.html (cheatsheet: https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041)
-* Row: https://api.flutter.dev/flutter/widgets/Row-class.html (cheatsheet: https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041)
+* Container: https://api.flutter.dev/flutter/widgets/Container-class.html 
+	* cheatsheet: https://medium.com/jlouage/container-de5b0d3ad184
+* Stack: https://api.flutter.dev/flutter/widgets/Stack-class.html
+	* cheatsheet: https://medium.com/flutteropen/flutter-widgets-15-stack-9637858f7c62
+* Column: https://api.flutter.dev/flutter/widgets/Column-class.html 
+	* cheatsheet: https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041
+* Row: https://api.flutter.dev/flutter/widgets/Row-class.html 
+	* cheatsheet: https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041
 * Expanded: https://api.flutter.dev/flutter/widgets/Expanded-class.html
 * Images and assets: https://flutter.dev/docs/development/ui/assets-and-images
 * Basic navigation: https://flutter.dev/docs/cookbook/navigation/navigation-basics
